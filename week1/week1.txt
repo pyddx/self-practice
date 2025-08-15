@@ -1,0 +1,22 @@
+// คำ	คำแปล
+// if	ถ้าเงื่อนไขเป็นจริง
+// else if	ถ้าอันบนไม่จริง แล้วตรวจอันนี้
+// else	ถ้าไม่มีอันไหนจริงเลย
+// switch	ตรวจค่าหลายกรณี
+// case	กรณีใน switch
+// break	หยุดการทำงานของ switch
+// default	ถ้าไม่เข้า case ไหนเลย
+// ===	เท่ากันทั้งค่าและชนิด
+// ? :	if แบบย่อ (ternary operator)
+
+// if (condition1) {
+
+// } else if (condition2) {
+
+// } else{
+
+// }
+
+//Ternary Operator (if แบบสั้น)
+
+// Conditional Statement (if, else if, else, switch, case, break, default, ternary operator)

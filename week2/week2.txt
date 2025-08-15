@@ -1,0 +1,35 @@
+ Loop Exercise
+ ✅1. for loop (ใช้บ่อยสุดในการสอบ)
+ ✅2. while loop (ใช้ตอนที่ไม่รู้จำนวนรอบแน่ชัด)
+
+
+ for (เริ่มต้น; เงื่อนไข; เพิ่ม/ลดรอบ) {
+   // โค้ดที่จะทำซ้ำ
+ }
+
+✅ 1. Factorial (แฟกทอเรียล)
+ สูตร:n! = n * (n-1) * (n-2) * ... * 1
+ เช่น: 4! = 4 × 3 × 2 × 1 = 24
+
+ ต้องวนตั้งแต่ 1 ถึง n แล้วพิมพ์แต่ละ i และ i!
+
+❗ถ้า n < 0 หรือไม่ใช่จำนวนเต็ม → พิมพ์ "ERROR"
+
+// เขียนโปรแกรมเช็คว่า string มีสระกี่ตัว
+// var str = "HEllo, world!";
+// var vowels = "aeiou";
+// var count = 0;
+// for (var i = 0; i < str.length, str.toLowerCase; i++) {
+//     if (vowels.includes(str[i])) {
+//         count++;
+//     }
+// } console.log("Number of vowels:", count);
+
+หาผลรวมเลข 1–100
+หาจำนวนตัวอักษรใน string
+หาว่า input เป็นเลขคู่หรือเลขคี่
+นับจำนวนที่หารด้วย 3 ได้ใน array
+เขียนโปรแกรมเช็คว่า string มีสระกี่ตัว
+
+
+Loop + Condition + Expression ผสมกัน

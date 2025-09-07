@@ -1,0 +1,10 @@
+//Array Manipulation
+อ่าน / เขียน / วนซ้ำ array
+filter เฉพาะเลข / แปลงตัวอักษร / ตรวจสอบค่าที่มีอยู่
+ดึงข้อมูล / แก้ไขข้อมูล ใน array functional programming
+//Object Handling
+เปรียบเทียบค่าใน object การเก็บข้อมูลเป็น key-value
+เลือก object ตามเงื่อนไข
+//Function / Modularization
+ใช้ function แยกงานทำ
+รับค่า parameter และ return ค่า

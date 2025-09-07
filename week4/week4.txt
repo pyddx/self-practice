@@ -1,0 +1,28 @@
+1️⃣ Object Array + map, filter, reduce
+map() → ทำซ้ำแต่ละ element แล้ว return array ใหม่
+filter() → เลือก element ตามเงื่อนไข 
+reduce() → สรุปค่าเป็นตัวเดียว (sum, product)
+✅ ใช้บ่อยเวลา จัดการข้อมูลหลายค่าใน object array
+
+2️⃣ Array Methods
+push() → เพิ่มท้าย
+pop() → เอาตัวท้ายออก
+unshift() → เพิ่มหัว
+shift() → เอาหัวออก
+✅ ทำให้ จัดการ array แบบ stack/queue ได้ง่าย
+
+3️⃣ slice / splice
+slice(start,end) → copy ส่วนหนึ่งของ array (ไม่เปลี่ยน array เดิม)
+splice(start, deleteCount, ...items) → ลบ/แทนที่/เพิ่ม element ใน array
+✅ ฝึก ตัด/แก้ไข array แบบตรงๆ
+
+4️⃣ search / sort
+indexOf(value) → หา index ของ element
+includes(value) → มีค่าหรือไม่ → true/false
+sort((a,b)=>b-a) → sort array ตัวเลขแบบลดหลั่น
+✅ เข้าใจ ค้นหาและเรียงลำดับ
+
+5️⃣ join / toString 
+join(separator) → แปลง array เป็น string พร้อมตัวคั่น
+toString() → แปลง array เป็น string comma-separated
+✅ ใช้ แสดงผล array เป็นข้อความ 
